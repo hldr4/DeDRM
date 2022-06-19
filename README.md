@@ -3,6 +3,6 @@
  - _PF = Kindle app stored in Program Files
  - _new = A copy of PF with extra stuff
 
-## KFX Input = latest version
+## KFX Input = v1.49.0
 
-## DeDRM_plugin = latest version with watermark removal pre-enabled
+## DeDRM_plugin = latest git version with watermark removal pre-enabled
